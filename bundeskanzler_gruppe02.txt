@@ -1,0 +1,5 @@
+# Diese Datei enthaelt die 8 Bundeskanzler
+# der Bundesrepublik Deutschland in der
+# Reihenfolger der Regierungszeit
+
+1. Konrad Adenauer
