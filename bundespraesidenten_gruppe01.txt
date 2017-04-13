@@ -1,5 +1,0 @@
-# Diese Datei enthaelt die 12 Bundespraesidenten
-# der Bundesrepublik Deutschland in der Reihenfolge
-# der Amtszeit
-
-1. Theodor Heuss
